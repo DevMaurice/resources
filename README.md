@@ -14,8 +14,10 @@ This includes some of the best resource links i have come across in Programming.
 >as they tuckle various topics in laravel and other related topics.
 
 ##Vuejs
-###[Vuejs](http://vuejs.org/guide/)
+>###[Vuejs](http://vuejs.org/guide/)
 >This is why javascript became a an interest to me. I hated javascript this made me rethink it.
 >Vuejs is simple to understand and learn too. It has a well documented documentation with well illustrated example.
 ###Vuejs tutorial [vue ver 0.12](https://laracasts.com/series/learning-vuejs) and [vue ver 1.0.*](https://laracasts.com/series/learning-vue-step-by-step)
 >This tutorials are easily explained thanks to Jeffry Way. They are easy to understand and makes javascript look really enjoyable. 
+>###[Tutorial](http://vegibit.com/vue-js-tutorial/)
+>This is also a good starting point here. It handles most basic starting  point of vuejs.
