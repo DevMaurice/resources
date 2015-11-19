@@ -21,3 +21,9 @@ This includes some of the best resource links i have come across in Programming.
 >This tutorials are easily explained thanks to Jeffry Way. They are easy to understand and makes javascript look really enjoyable. 
 >###[Tutorial](http://vegibit.com/vue-js-tutorial/)
 >This is also a good starting point here. It handles most basic starting  point of vuejs.
+
+
+##Github
+>###[Versioning](http://nvie.com/posts/a-successful-git-branching-model/)
+>How to do versioning on github.
+
